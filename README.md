@@ -34,7 +34,8 @@ I build cross-platform mobile and backend applications with a focus on performan
 
 ## GitHub Stats
 
-![Sami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samimalikdev&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![Sami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samimalikdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
 
 ---
 
